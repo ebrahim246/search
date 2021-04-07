@@ -1,0 +1,45 @@
+.card{
+    border-radius: 10px;
+    background-color: lightgrey
+}
+
+.saved-list{
+    border-radius: 15px;
+    background-color: lightblue
+}
+
+.deleteBook {
+    border-radius: 5px;
+    margin-left: 10px
+}
+
+.viewBook {
+    border-radius: 5px;
+    margin-left: 5px
+}
+form{
+    background: #235a8a;
+    border-radius: 15px;
+}
+.BookSearchLabel{
+    margin-left:20px;
+    margin-top: 10px
+}
+.submitBtn{
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.form-control{
+    margin-left: 20px;
+    width: 95%
+}
+
+.search-list{
+    border-radius: 15px;
+    background-color: lightblue
+}
+
+.saveBook {
+    border-radius: 5px;
+    margin-left: 10px
+}
